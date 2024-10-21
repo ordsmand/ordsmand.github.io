@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ordsmand.github.io/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/app/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/assets/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/css/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/includes/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/item/ordsmand.txt.gz
+Sitemap: https://ordsmand.github.io/src/ordsmand.txt.gz
